@@ -147,9 +147,9 @@ The database structure supports:
 
 | Platform          | Link                                                                                                                                 |
 | ----------------- | ------------------------------------------------------------------------------------------------------------------------------------ |
-| Azure Website     | [EventEase Azure Deployment](https://eventeasedeployment-ffgtg6a7g2dvfud6.canadacentral-01.azurewebsites.net?utm_source=chatgpt.com) |
-| GitHub Repository | [EventEase GitHub Repository](https://github.com/AaliyahAllie/EventEasePart2Final.git?utm_source=chatgpt.com)                        |
-| YouTube Demo      | [EventEase Demo Video](https://youtu.be/CGtorhzc7ok?utm_source=chatgpt.com)                                                          |
+| Azure Website     | [EventEase Azure Deployment](https://st10212542-hdhjahh4d9g4fncm.canadacentral-01.azurewebsites.net/) |
+| GitHub Repository | [EventEase GitHub Repository]()                        |
+| YouTube Demo      | [EventEase Demo Video]()                                                          |
 
 ---
 
