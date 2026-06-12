@@ -148,7 +148,7 @@ The database structure supports:
 | Platform          | Link                                                                                                                                 |
 | ----------------- | ------------------------------------------------------------------------------------------------------------------------------------ |
 | Azure Website     | [EventEase Azure Deployment](https://st10212542-hdhjahh4d9g4fncm.canadacentral-01.azurewebsites.net/) |
-| GitHub Repository | [EventEase GitHub Repository]()                        |
+| GitHub Repository | [EventEase GitHub Repository](https://github.com/AaliyahAllie/EventEasePart3_final.git)                        |
 | YouTube Demo      | [EventEase Demo Video]()                                                          |
 
 ---
