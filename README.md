@@ -1,5 +1,4 @@
-# EventEase Venue Booking System – Part 2
-
+# EventEase Venue Booking System
 ## Introduction
 
 The **EventEase Venue Booking System** is a cloud-based ASP.NET Core MVC application developed for the CLDV7111 Cloud Development module.
@@ -10,6 +9,7 @@ Part 2 focuses on improving the system through:
 * Validation and error handling
 * Booking management improvements
 * Search functionality
+* Filtered Searching
 * Deployment to Microsoft Azure
 
 The system was enhanced to become more reliable, scalable, and user-friendly.
